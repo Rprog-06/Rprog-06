@@ -5,8 +5,8 @@
 - 🎓 Computer Science Student | Passionate about solving real-world problems
 - 🧠 Exploring Machine Learning, AI, and Web Development
 - 🔧 Languages & Tools: Python, Java, JavaScript, Django, MySQL, Git, GitHub
-- 🌱 Currently working on: [Project Name]
-- 📫 How to reach me: [LinkedIn link] | [Email]
+- 🌱 Currently working on: Expense Tracker Application
+- 📫 How to reach me:https://www.linkedin.com/in/rizwan-vahora-268037298 | vahorarizwan09@gmail.com
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rprog-06&show_icons=true&theme=radical)
