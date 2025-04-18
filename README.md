@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rizwan 👋
 
-### 🚀 Aspiring Data Scientist | ML Enthusiast | Backend Developer
+### 🚀 Aspiring Data Scientist | ML Enthusiast | FullStack Developer
 
 - 🎓 Computer Science Student | Passionate about solving real-world problems
 - 🧠 Exploring Machine Learning, AI, and Web Development
