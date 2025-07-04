@@ -4,7 +4,7 @@
 
 - 🎓 Computer Science Student | Passionate about solving real-world problems
 - 🧠 Exploring Machine Learning, AI, and Web Development
-- 🔧 Languages & Tools: Python, Java, JavaScript, Django, MySQL, Git, GitHub
+- 🔧 Languages & Tools: Python, Java, React.js,Node.js, Django, MySQL, Git, GitHub
 - 🌱 Currently working on: Expense Tracker Application
 - 📫 How to reach me:https://www.linkedin.com/in/rizwan-vahora-268037298 | vahorarizwan09@gmail.com
 
